@@ -1,0 +1,8 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar carpetas específicas
+/bin/
+/obj/
+/packages/
