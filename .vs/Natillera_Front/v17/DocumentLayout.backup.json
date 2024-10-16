@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|c:\\users\\samue\\desktop\\temp sebas\\trabajo_natillera_front\\natillera_front\\paginas\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|c:\\users\\samue\\desktop\\temp sebas\\trabajo_natillera_front\\natillera_front\\paginas\\vista.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\vista.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "Paginas\\HtmlPage1.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\HtmlPage1.html",
+              "RelativeToolTip": "Paginas\\HtmlPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T01:41:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vista.css",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\vista.css",
+              "RelativeDocumentMoniker": "Paginas\\vista.css",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\vista.css",
+              "RelativeToolTip": "Paginas\\vista.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-16T01:41:16.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
