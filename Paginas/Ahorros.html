@@ -1,0 +1,105 @@
+﻿< !DOCTYPE html >
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Ahorros</title>
+    <style>
+        body {
+            font - family: Arial, sans-serif;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background - color: #f2f2f2;
+        }
+
+        form {
+            margin - bottom: 20px;
+        }
+
+        label {
+            display: inline-block;
+            width: 120px;
+        }
+
+        input[type="text"], input[type="date"] {
+            width: 200px;
+        }
+
+        button {
+            margin - top: 10px;
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+
+        #dvMensaje {
+            margin - top: 10px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Gestión de Ahorros</h1>
+
+    <!-- Formulario para gestionar ahorros -->
+    <form id="ahorroForm">
+        <label for="txtIdAhorro">ID Ahorro:</label>
+        <input type="text" id="txtIdAhorro" name="txtIdAhorro"><br><br>
+
+        <label for="txtNombreAhorro">Nombre:</label>
+        <input type="text" id="txtNombreAhorro" name="txtNombreAhorro"><br><br>
+
+        <label for="txtMonto">Monto:</label>
+        <input type="text" id="txtMonto" name="txtMonto"><br><br>
+
+        <label for="txtInteres">Interés:</label>
+        <input type="text" id="txtInteres" name="txtInteres"><br><br>
+
+        <label for="txtFechaInicio">Fecha de Inicio:</label>
+        <input type="date" id="txtFechaInicio" name="txtFechaInicio"><br><br>
+
+        <label for="txtFechaFin">Fecha de Fin:</label>
+        <input type="date" id="txtFechaFin" name="txtFechaFin"><br><br>
+
+        <div id="dvMensaje"></div>
+
+        <button type="button" id="btnInsertar">Insertar</button>
+        <button type="button" id="btnActualizar">Actualizar</button>
+        <button type="button" id="btnEliminar">Eliminar</button>
+        <button type="button" id="btnConsultar">Consultar</button>
+    </form>
+
+    <!-- Tabla para mostrar los ahorros -->
+    <table id="ahorrosTable">
+        <thead>
+            <tr>
+                <th>ID Ahorro</th>
+                <th>Nombre</th>
+                <th>Monto</th>
+                <th>Interés</th>
+                <th>Fecha de Inicio</th>
+                <th>Fecha de Fin</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí se llenarán los datos -->
+        </tbody>
+    </table>
+
+</body>
+</html>

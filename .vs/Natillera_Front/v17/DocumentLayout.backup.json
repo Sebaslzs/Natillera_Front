@@ -3,11 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|c:\\users\\samue\\desktop\\temp sebas\\trabajo_natillera_front\\natillera_front\\paginas\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|c:\\users\\samue\\desktop\\temp sebas\\trabajo_natillera_front\\natillera_front\\paginas\\scripts\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\scripts\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\ahorros.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\ahorros.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\scripts\\ahorros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\scripts\\ahorros.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\scripts\\deposito.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\scripts\\deposito.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\deposito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\deposito.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Pagina1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Pagina1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|c:\\users\\samue\\desktop\\temp sebas\\trabajo_natillera_front\\natillera_front\\paginas\\vista.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\paginas\\vista.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B64E5F34-217F-410B-A637-05550D1CF145}|Natillera_Front.csproj|solutionrelative:paginas\\vista.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -18,24 +59,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deposito.js",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Deposito.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Deposito.js",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Deposito.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Deposito.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T22:59:01.108Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Clientes.js",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Clientes.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Clientes.js",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Clientes.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Clientes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T22:58:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Menu.html",
+              "RelativeDocumentMoniker": "Paginas\\Menu.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Menu.html",
+              "RelativeToolTip": "Paginas\\Menu.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T20:42:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Clientes.html",
+              "RelativeDocumentMoniker": "Paginas\\Clientes.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Clientes.html",
+              "RelativeToolTip": "Paginas\\Clientes.html",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T20:03:40.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deposito.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Deposito.html",
+              "RelativeDocumentMoniker": "Paginas\\Deposito.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Deposito.html",
+              "RelativeToolTip": "Paginas\\Deposito.html",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAM8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T20:04:25.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ahorros.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Ahorros.html",
+              "RelativeDocumentMoniker": "Paginas\\Ahorros.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Ahorros.html",
+              "RelativeToolTip": "Paginas\\Ahorros.html",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwFwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T20:04:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ahorros.js",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Ahorros.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Ahorros.js",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Scripts\\Ahorros.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Ahorros.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T22:58:36.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pagina1.js",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Pagina1.js",
+              "RelativeDocumentMoniker": "..\\..\\WEB_18_20\\Paginas\\Scripts\\Pagina1.js",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Pagina1.js",
+              "RelativeToolTip": "..\\..\\WEB_18_20\\Paginas\\Scripts\\Pagina1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T23:35:28.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagina1.html",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Pagina1.html",
+              "RelativeDocumentMoniker": "..\\..\\WEB_18_20\\Paginas\\Pagina1.html",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Pagina1.html",
+              "RelativeToolTip": "..\\..\\WEB_18_20\\Paginas\\Pagina1.html",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T23:35:37.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.js",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Cliente.js",
+              "RelativeDocumentMoniker": "..\\..\\WEB_18_20\\Paginas\\Scripts\\Cliente.js",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\WEB_18_20\\Paginas\\Scripts\\Cliente.js",
+              "RelativeToolTip": "..\\..\\WEB_18_20\\Paginas\\Scripts\\Cliente.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T22:55:39.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Default.aspx",
+              "RelativeDocumentMoniker": "Paginas\\Default.aspx",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\Default.aspx",
+              "RelativeToolTip": "Paginas\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T16:30:22.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HtmlPage1.html",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\HtmlPage1.html",
               "RelativeDocumentMoniker": "Paginas\\HtmlPage1.html",
               "ToolTip": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\HtmlPage1.html",
               "RelativeToolTip": "Paginas\\HtmlPage1.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-16T01:41:27.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:41:27.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "vista.css",
               "DocumentMoniker": "C:\\Users\\samue\\Desktop\\Temp sebas\\trabajo_Natillera_Front\\Natillera_Front\\Paginas\\vista.css",
               "RelativeDocumentMoniker": "Paginas\\vista.css",
@@ -43,8 +216,7 @@
               "RelativeToolTip": "Paginas\\vista.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-16T01:41:16.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:41:16.773Z"
             }
           ]
         }
